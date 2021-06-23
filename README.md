@@ -12,3 +12,7 @@ What games that you will focus on ?
 1. free2play survival horror
 
 2. simulator 
+
+What tools that you need to open
+
+what website that you need to open.
