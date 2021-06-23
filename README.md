@@ -2,9 +2,9 @@
 
 To build game from scratch is hard and takes so much time. So what you needed to success is to 
 
-learn the tools
-changed the character ,object
-add more behaviour
+1. learn the tools
+2. changed the character ,object
+3. add more behaviour
 
 
 What games that you will focus on ? 
