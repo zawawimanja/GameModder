@@ -13,6 +13,8 @@ What games that you will focus on ?
 
 2. simulator 
 
+3. 3d games
+
 What tools that you need to open
 
 what website that you need to open.
